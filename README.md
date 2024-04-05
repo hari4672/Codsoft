@@ -10,4 +10,4 @@ A To-Do List application is a useful project that helps users manage and organiz
 2. Input Validation: Validating user input to prevent errors and ensure data integrity.
 3. Error Handling: Implementing robust error handling to gracefully manage unexpected situations and provide informative error messages to users.
 
-[video] [https://github.com/hari4672/Codsoft-Internship/issues/1#issue-2228317262](https://github.com/hari4672/Codsoft-Internship/assets/124657429/f3db5fbe-0050-4b98-a95e-026ff3000961)
+[video] (https://github.com/hari4672/Codsoft-Internship/assets/124657429/f3db5fbe-0050-4b98-a95e-026ff3000961)
