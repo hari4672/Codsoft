@@ -31,3 +31,22 @@ Perform the calculation and display the result.
 10. Error Handling: Implementing robust error handling to gracefully manage unexpected situations and provide informative feedback to the user.
 
 [video] (https://github.com/hari4672/Codsoft-Internship/assets/124657429/2594d7c5-f4cf-4f21-89e0-3140d082586e)
+
+# Task - 3 (PASSWORD GENERATOR)
+
+A password generator is a useful tool that generates strong and random passwords for users. This project aims to create a password generator application using Python, allowing users to specify the length and complexity of the password.
+User Input: Prompt the user to specify the desired length of the password.
+Generate Password: Use a combination of random characters to generate a password of the specified length.
+Display the Password: Print the generated password on the screen.
+
+# Key Concepts and Potential Challenges:
+
+1. Random Generation: Utilizing Python's random module to generate random characters for the password.
+2. User Input: Prompting the user to specify the desired length of the password.
+3. Password Complexity: Balancing between generating strong passwords and user preferences regarding complexity.
+4. Password Strength: Ensuring the generated passwords are sufficiently strong and random.
+5. User Experience: Designing a user-friendly interface for input and output.
+6. Complexity Management: Allowing users to specify the desired complexity of the password while maintaining simplicity in the implementation.
+
+[image] (![Password_Generator py](https://github.com/hari4672/Codsoft-Internship/assets/124657429/a546855a-434d-4c66-8755-52beebe88037))
+
